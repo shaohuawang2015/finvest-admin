@@ -8,9 +8,9 @@ const FooterView = () => (
     <GlobalFooter
       links={[
         {
-          key: 'Pro 首页',
-          title: 'Pro 首页',
-          href: 'https://pro.ant.design',
+          key: 'FinVest',
+          title: 'FinVest 首页',
+          href: '#',
           blankTarget: true,
         },
         {
@@ -28,7 +28,7 @@ const FooterView = () => (
       ]}
       copyright={
         <Fragment>
-          Copyright <Icon type="copyright" /> 2018 蚂蚁金服体验技术部出品
+          Copyright <Icon type="copyright" /> 2018@F4G
         </Fragment>
       }
     />

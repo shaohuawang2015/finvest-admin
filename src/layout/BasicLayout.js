@@ -98,7 +98,7 @@ class BasicLayout extends React.PureComponent {
     });
   }
 
-  componentDidUpdate(preProps) {
+  componentDidUpdate(preProps) {``
     // After changing to phone mode,
     // if collapsed is true, you need to click twice to display
     this.breadcrumbNameMap = this.getBreadcrumbNameMap();

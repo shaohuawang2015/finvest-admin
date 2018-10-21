@@ -11,6 +11,16 @@ export default [
     routes: [
       // dashboard
       {
+        path: 'home',
+        name: 'home',
+        icon: 'home',
+        routes:[{
+          path: 'home',
+          name: 'home',
+          component: 'Home/Home'
+        }],
+      },
+      {
         path: 'dashboard',
         name: 'dashboard',
         icon: 'dashboard',

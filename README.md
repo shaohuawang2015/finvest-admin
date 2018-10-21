@@ -1,4 +1,4 @@
-## Bigfish@2.x + Ant Design Pro 2.0 脚手架
+## Ant Design Pro 2.0 脚手架
 
 准备工作：
 
